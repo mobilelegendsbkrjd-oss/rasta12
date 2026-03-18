@@ -1,104 +1,61 @@
 import requests
-import time
-from datetime import datetime
-import sys
 
-# --- CONFIGURACIÓN ---
+# Configuración
 LOCAL_FILE = 'prr.txt'
-URLS_REMOTAS = [
-    'http://tecnotv.club/ma1003/lista.m3u',
-    'http://tecnotv.club/ma1003/lista1.m3u',
-    'http://tecnotv.club/ma1003/lista2.m3u',
-    'http://tecnotv.club/ma1003/lista3.m3u',
-    'http://tecnotv.club/ma1003/lista4.m3u',
-    'http://tecnotv.club/ma1003/lista5.m3u',
-    'http://tecnotv.club/ma1003/geomex.m3u',
-    'http://tecnotv.club/ma1003/android.m3u' 
-]
-
+REMOTE_URL = 'http://tv.zeuspro.xyz:2052/get.php?username=arturo903&password=11HD4MrrPG&type=m3u_plus'
 EPG_URL = 'https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml' 
 OUTPUT_FILE = 'android.m3u'
-HEADERS = {'User-Agent': 'VLC/3.0.20 LibVLC/3.0.20'}
-INTERVALO_HORAS = 6
+HEADERS = {'User-Agent': 'VLC/3.0.12 LibVLC/3.0.12'}
 
-def procesar_canales(texto_m3u, es_remoto=False):
-    if not texto_m3u or not isinstance(texto_m3u, str):
-        return []
-        
+# Extensiones de películas/series que queremos ocultar
+EXTENSIONES_PROHIBIDAS = ['.mkv', '.mp4', '.avi', '.mov', '.wmv']
+
+def procesar_canales_vivo(texto_m3u):
+    """Filtra el contenido eliminando formatos de video (VOD)"""
     lineas = texto_m3u.splitlines()
     resultado = []
     
     for i in range(len(lineas)):
-        try:
-            linea = lineas[i].strip()
-            if linea.startswith("#EXTINF"):
-                if i + 1 < len(lineas):
-                    url = lineas[i+1].strip()
-                    if url and url.startswith("http"):
-                        # Forzado de .ts para estabilidad en TecnoTV
-                        if es_remoto and not any(ext in url.lower() for ext in ['.ts', '.m3u8']):
-                            separator = '&' if '?' in url else '?'
-                            url = f"{url}{separator}output=ts"
-                        
-                        resultado.append(linea)
-                        resultado.append(url)
-        except Exception:
-            continue # Si una línea está rota, salta a la siguiente
+        linea = lineas[i].strip()
+        
+        if linea.startswith("#EXTINF"):
+            if i + 1 < len(lineas):
+                url_siguiente = lineas[i+1].strip().lower()
+                
+                # Comprobamos si la URL contiene alguna de las extensiones prohibidas
+                es_pelicula = any(ext in url_siguiente for ext in EXTENSIONES_PROHIBIDAS)
+                
+                if not es_pelicula and url_siguiente.startswith("http"):
+                    resultado.append(linea)
+                    resultado.append(lineas[i+1])
     return resultado
 
-def ejecutar_actualizacion():
-    ahora = datetime.now().strftime('%H:%M:%S')
-    print(f"[{ahora}] 🔄 Iniciando ciclo de limpieza...")
-    
+def main():
+    # Cabecera con EPG
     final_lines = [f'#EXTM3U x-tvg-url="{EPG_URL}"']
     
-    # 1. Intentar cargar Local
+    # 1. Procesar prr.txt
     try:
         with open(LOCAL_FILE, 'r', encoding='utf-8') as f:
-            canales_locales = procesar_canales(f.read(), es_remoto=False)
+            canales_locales = procesar_canales_vivo(f.read())
             final_lines.extend(canales_locales)
-            print(f"✅ Local OK: {len(canales_locales)//2} canales.")
-    except Exception as e:
-        print(f"⚠️ Aviso: Saltando local ({e})")
+        print(f"✅ Local: {len(canales_locales)//2} canales filtrados.")
+    except: pass
 
-    # 2. Procesar Remotas
-    for url_fuente in URLS_REMOTAS:
-        try:
-            r = requests.get(url_fuente, headers=HEADERS, timeout=30)
-            if r.status_code == 200:
-                # Validamos que sea una lista M3U real antes de procesar
-                if "#EXT" in r.text:
-                    nuevos = procesar_canales(r.text, es_remoto=True)
-                    final_lines.extend(nuevos)
-                    print(f"✅ Cargada: {url_fuente[-12:]} | +{len(nuevos)//2}")
-            else:
-                print(f"❌ Error {r.status_code}: {url_fuente[-12:]}")
-        except Exception as e:
-            print(f"🚫 Error de red en {url_fuente[-12:]}: {e}")
-
-    # 3. Guardado Seguro
+    # 2. Procesar ZeusPro
     try:
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            f.write("\n".join(final_lines))
-        print(f"🚀 Archivo '{OUTPUT_FILE}' actualizado con éxito.")
-    except Exception as e:
-        print(f"🚨 Error al guardar archivo: {e}")
+        r = requests.get(REMOTE_URL, headers=HEADERS, timeout=25)
+        if r.status_code == 200:
+            canales_remotos = procesar_canales_vivo(r.text)
+            final_lines.extend(canales_remotos)
+            print(f"✅ Remoto: {len(canales_remotos)//2} canales filtrados (sin .avi, .mkv, .mp4).")
+    except: pass
 
-def main():
-    while True:
-        try:
-            ejecutar_actualizacion()
-        except Exception as e:
-            print(f"🔥 Error inesperado en el bucle: {e}")
-        
-        print(f"⏳ Esperando {INTERVALO_HORAS} horas...")
-        time.sleep(INTERVALO_HORAS * 3600)
+    # 3. Guardar
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        f.write("\n".join(final_lines))
+    
+    print(f"🚀 Lista '{OUTPUT_FILE}' generada con éxito.")
 
 if __name__ == "__main__":
-    # Si lo corres en un entorno que no permite bucles infinitos (como GitHub Actions gratis),
-    # quita el 'while True' y deja solo ejecutar_actualizacion()
-    try:
-        ejecutar_actualizacion()
-    except:
-        sys.exit(1) # Solo sale con error si falla TODO el proceso
-        
+    main()
