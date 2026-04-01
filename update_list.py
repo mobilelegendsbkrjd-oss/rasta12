@@ -3,7 +3,7 @@ import requests
 # Configuración
 LOCAL_FILE = 'prr.txt'
 
-REMOTE_URL = 'http://tv.zeuspro.xyz:2052/get.php?username=arturo903&password=11HD4MrrPG&type=m3u_plus'
+#REMOTE_URL = 'http://tv.zeuspro.xyz:2052/get.php?username=arturo903&password=11HD4MrrPG&type=m3u_plus'
 
 # 🔥 NUEVAS LISTAS
 EXTRA_URLS = [
