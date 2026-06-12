@@ -9,7 +9,6 @@ URLS_REMOTAS = [
     'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_pluto.m3u',
     'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u',
     'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx.m3u',
-    'https://iptv-org.github.io/iptv/index.m3u',
     
 ]
 
