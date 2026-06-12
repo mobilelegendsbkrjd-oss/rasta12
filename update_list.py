@@ -6,14 +6,11 @@ import sys
 # --- CONFIGURACIÓN ---
 LOCAL_FILE = 'prr.txt'
 URLS_REMOTAS = [
-    'http://tecnotv.club/18ma/lista.m3u',
-    'http://tecnotv.club/18ma/lista1.m3u',
-    'http://tecnotv.club/18ma/lista2.m3u',
-    'http://tecnotv.club/18ma/lista3.m3u',
-    'http://tecnotv.club/18ma/lista4.m3u',
-    'http://tecnotv.club/18ma/lista5.m3u',
-    'http://tecnotv.club/18ma/geomex.m3u',
-    'http://tecnotv.club/18ma/android.m3u' 
+    'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_pluto.m3u',
+    'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u',
+    'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx.m3u',
+    'https://iptv-org.github.io/iptv/index.m3u',
+    
 ]
 
 EPG_URL = 'https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml' 
