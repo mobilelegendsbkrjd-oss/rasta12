@@ -229,7 +229,6 @@ https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdn
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="Religion",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="AcapulcoShore.us@SD",Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 tvg-id="",ADN Noticias (720p)
@@ -624,7 +623,6 @@ https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 #EXTINF:-1 tvg-id="",Zona Investigación TV (720p)
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="FailArmy.us@US",Failarmy International (720p)
 https://failarmy-international-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD",Just For Laughs Gags (720p)
@@ -637,7 +635,6 @@ https://jukin-peopleareawesome-2-mx.samsung.wurl.tv/playlist.m3u8
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.mx@SD",WeatherSpy (720p)
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="8NTV.mx@SD",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-id="15TV.mx@SD",15TV (720p) [Not 24/7]
@@ -698,9 +695,6 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.mx@SD",Canal 26 Aguascalientes (1080p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal28.mx@SD",Canal 28 (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://player.castr.com/live_bf24d4208d8611eeb116dbe87aa63be0
-https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="Canal30Cintalapa.mx@SD",Canal 30 Cintalapa (720p) [Not 24/7]
 https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal33Tijuana.mx@SD",Canal 33 Tijuana (720p)
@@ -733,9 +727,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpresaTV.mx@SD",Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GikTVMX.mx@SD",GikTVMX (720p)
-#EXTVLCOPT:http-referrer=https://giktv.com
-https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IcrtvColima.mx@SD",ICRTV Colima (1080p)
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IERTBCSCanal82.mx@SD",IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]
@@ -820,9 +811,6 @@ https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
 https://servilive.com:3879/live/telesaltillolive.m3u8
 #EXTINF:-1 tvg-id="TeleUV.mx@SD",Tele UV [Not 24/7]
 https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleYucatan.mx@SD",Tele Yucatan (1080p) [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://www.teleyucatan.gob.mx/
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx@SD",TeleFórmula (720p)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx@SD",Telehit Musica
@@ -844,7 +832,7 @@ https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRCTV.mx@SD",TRC Televisión (720p)
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (1080p)
-https://streaming.alwaysdata.net/tudn.php
+https://streaming.alwaysdata.net/tudn.php?output=ts
 #EXTINF:-1 tvg-id="TuristikTV.mx@SD",Turistik TV (720p)
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBUAP.mx@SD",TV BUAP (1080p)
