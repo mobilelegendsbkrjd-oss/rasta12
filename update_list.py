@@ -8,7 +8,7 @@ LOCAL_FILE = 'prr.txt'
 URLS_REMOTAS = [
     'https://raw.githubusercontent.com/678190/mysky.w3u/3b4b7637ad3c82016d78c8f6720366c8d7ce8a2f/senial1.w3u,
     'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx.m3u',
-    
+    'https://raw.githubusercontent.com/678190/RIK/refs/heads/main/AIR.w3u'
 ]
 
 EPG_URL = 'https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml' 
