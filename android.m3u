@@ -229,398 +229,156 @@ https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdn
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="Religion",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AcapulcoShore.us@SD",Acapulco Shore Pluto TV
-https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
-#EXTINF:-1 tvg-id="",ADN Noticias (720p)
-https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@SD",Adrenalina Pura TV (720p)
-https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:-1 tvg-id="",Al Ritmo del Jaripeo (720p)
-https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
-#EXTINF:-1 tvg-id="",Archivos Extraterrestres
-https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
-#EXTINF:-1 tvg-id="ArchivosForenses.us@Spain",Archivos Forenses
-https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
-#EXTINF:-1 tvg-id="",Avatar: La Leyenda de Aang
-https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
-#EXTINF:-1 tvg-id="",Azteca Deportes Premium (720p)
-https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (720p)
-https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
-#EXTINF:-1 tvg-id="",Azteca UNO -1 hora (720p)
-https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
-#EXTINF:-1 tvg-id="BabySharkTV.us@SD",Baby Shark TV
-https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us@US",Babyfirst
-https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
-#EXTINF:-1 tvg-id="",Bob Esponja Pantalones Cuadrados (720p)
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 tvg-id="",Boruto: Naruto Next Generations
-https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
-#EXTINF:-1 tvg-id="",Bromas Gags Just for Laughs (720p)
-https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
-#EXTINF:-1 tvg-id="",C4 en Alerta (720p)
-https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
-#EXTINF:-1 tvg-id="",Canal 6 CdMX (720p)
-https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
-#EXTINF:-1 tvg-id="CanalClaro.cl@SD",Canal Claro (720p)
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:-1 tvg-id="",Captain Tsubasa
-https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
-#EXTINF:-1 tvg-id="CazadordeHomicidas.us@Spain",Cazador de Homicidas
-https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
-#EXTINF:-1 tvg-id="",CBS News (720p)
-https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US",Comedy Central Pluto TV
-https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@Germany",Comedy Central South Park
-https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:-1 tvg-id="ConcertChannel.us@SD",Concert Channel (720p)
-https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
-#EXTINF:-1 tvg-id="",Conciertos por Stingray (720p)
-https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
-#EXTINF:-1 tvg-id="Cops.us@SD",COPS
-https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
-#EXTINF:-1 tvg-id="",Corazón (720p)
-https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
-#EXTINF:-1 tvg-id="",CSI: Miami
-https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
-#EXTINF:-1 tvg-id="",Cuando los Ángeles Caen (720p)
-https://jmp2.uk/plu-699769fa19ac123965833fd3.m3u8
-#EXTINF:-1 tvg-id="",Daria
-https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
-#EXTINF:-1 tvg-id="DAZNCombat.uk@SD",DAZN Combat
-https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
-#EXTINF:-1 tvg-id="",Death Note
-https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
-#EXTINF:-1 tvg-id="",Desafío Super Humanos
-https://jmp2.uk/plu-6495af324c014a000842e923.m3u8
-#EXTINF:-1 tvg-id="PlutoTVDogelcazarrecompensas.us@SD",Dog el cazarrecompensas
-https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
-#EXTINF:-1 tvg-id="",Dr. G
-https://jmp2.uk/plu-697c9bc2a7ce9d5a3d83504a.m3u8
-#EXTINF:-1 tvg-id="",Dulce by elGourmet (720p)
-https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
-#EXTINF:-1 tvg-id="Elencantadordeperros.us@Spain",El Encantador de Perros
-https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us@SD",El Reino Infantil
-https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
-#EXTINF:-1 tvg-id="Empenosalobestia.us@Spain",Empeños a lo bestia
-https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
-#EXTINF:-1 tvg-id="",Enchufe.TV
-https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
-#EXTINF:-1 tvg-id="PlutoTVEstrellasdeAccion.us@SD",Estrellas de Acción
-https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD",Euronews Español (684p)
-https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US",FailArmy (720p)
-https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@English",FIFA+
-https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8
-#EXTINF:-1 tvg-id="",Hechiceras
-https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
-#EXTINF:-1 tvg-id="",Hechizada
-https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
-#EXTINF:-1 tvg-id="",Hells Kitchen
-https://jmp2.uk/plu-6095ad97351eb0000754c1e6.m3u8
-#EXTINF:-1 tvg-id="",Hey Arnold!
-https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistoriasdeUltratumba.us@SD",Historias de Ultratumba
-https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
-#EXTINF:-1 tvg-id="Homeful.ca@US",Homeful (720p)
-https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
-#EXTINF:-1 tvg-id="",Hunter x Hunter
-https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
-#EXTINF:-1 tvg-id="",I Shouldn't Be Alive
-https://jmp2.uk/plu-69fcaaa1853a01a827bcd056.m3u8
-#EXTINF:-1 tvg-id="IcePilots.us@Germany",Ice Pilots
-https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx@SD",Imagen TV+ (720p)
-https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
-#EXTINF:-1 tvg-id="",Inuyasha
-https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
-#EXTINF:-1 tvg-id="ITVDeportes.mx@SD",ITV Deportes (720p)
-https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
-#EXTINF:-1 tvg-id="",JoJo’s Bizarre Adventure
-https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@Brazil",Karaoke por Stingray (720p)
-https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKenanyKel.us@SD",Kenan y Kel
-https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
-#EXTINF:-1 tvg-id="",La Familia del Barrio
-https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
-#EXTINF:-1 tvg-id="",La Selección
-https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
-#EXTINF:-1 tvg-id="LasTortugasNinja.us@Spain",Las Tortugas Ninja (720p)
-https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-#EXTINF:-1 tvg-id="LosarchivosdelFBI.us@Spain",Los archivos del FBI
-https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
-#EXTINF:-1 tvg-id="LosAsesinatosdeMidsomer.us@Spain",Los Asesinatos de Midsomer
-https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
-#EXTINF:-1 tvg-id="",Los Padrinos Mágicos
-https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
-#EXTINF:-1 tvg-id="",Los Pitufos
-https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
-#EXTINF:-1 tvg-id="LuchaLibreAAA.us@SD",Lucha Libre AAA
-https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
-#EXTINF:-1 tvg-id="",MacGyver
-https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
-#EXTINF:-1 tvg-id="",Madre
-https://jmp2.uk/plu-69b32974814d27f4aed90fdd.m3u8
-#EXTINF:-1 tvg-id="MasterChef.us@Brazil",MasterChef
-https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
-#EXTINF:-1 tvg-id="",MasterChef Argentina
-https://jmp2.uk/plu-69fcaa88e022927e1c94c533.m3u8
-#EXTINF:-1 tvg-id="",MasterChef Colombia
-https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
-#EXTINF:-1 tvg-id="",Mi Bella Genio
-https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
-#EXTINF:-1 tvg-id="",Mi Coche Clásico
-https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
-#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD",Milenio Televisión (720p)
-https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMinutoParaGanar.us@SD",Minuto Para Ganar
-https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMisteriosMedicos.us@SD",Misterios Medicos
-https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
-#EXTINF:-1 tvg-id="Misteriossinresolver.us@SD",Misterios sin Resolver
-https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
-#EXTINF:-1 tvg-id="",Monstruos de Rio (720p)
-https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8
-#EXTINF:-1 tvg-id="Motorvision.de@SD",Motorvision TV
-https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk@English",Mr. Bean Animated
-https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@US",MTV Biggest Pop (1080p)
-https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-#EXTINF:-1 tvg-id="",MTV Catfish (720p)
-https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMTVClassic.us@SD",Pluto TV MTV Classic (720p)
-https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
-#EXTINF:-1 tvg-id="",MTV Con Mi Ex
-https://jmp2.uk/plu-638693db857364000781b471.m3u8
-#EXTINF:-1 tvg-id="MTVDating.us@US",MTV Dating (720p)
-https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
-#EXTINF:-1 tvg-id="",MTV Flow Latino (720p)
-https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-#EXTINF:-1 tvg-id="MTVPlutoTV.us@LatAm",MTV Pluto TV LatAm (720p)
-https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
-#EXTINF:-1 tvg-id="",MTV Reality (720p)
-https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.us@Germany",MTV Ridiculousness (720p)
-https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
-#EXTINF:-1 tvg-id="",MTV Rocks
-https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
-#EXTINF:-1 tvg-id="",MTV Rupaul's Drag Race Untucked
-https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
-#EXTINF:-1 tvg-id="MTVTeenMom.us@Germany",MTV Teen Mom (720p)
-https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
-#EXTINF:-1 tvg-id="Narutoenespanol.us@SD",Naruto
-https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
-#EXTINF:-1 tvg-id="NarutoShippuden.us@LatAm",Naruto Shippuden
-https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca@LATAM",NatureTime (684p)
-https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
-#EXTINF:-1 tvg-id="",NCIS
-https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
-#EXTINF:-1 tvg-id="NickJrClub.us@Brazil",Nick Jr. Club (720p)
-https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
-#EXTINF:-1 tvg-id="",Nickelodeon Clásico (720p)
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 tvg-id="",Nickelodeon iCarly
-https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
-#EXTINF:-1 tvg-id="NickelodeonTeen.fr@SD",Nickelodeon Teen (720p)
-https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-#EXTINF:-1 tvg-id="",Nickelodeon Toons (720p)
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 tvg-id="",Números
-https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
-#EXTINF:-1 tvg-id="",Obsesión por los Autos
-https://jmp2.uk/plu-64025592953da40008bf9238.m3u8
-#EXTINF:-1 tvg-id="OnePiece.us@LatAm",One Piece
-https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
-#EXTINF:-1 tvg-id="",Paisajes por Stingray
-https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8
-#EXTINF:-1 tvg-id="PFLMMA.pl@SD",PFL MMA (720p)
-https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
-#EXTINF:-1 tvg-id="",Plato del Dia by elGourmet (720p)
-https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV A La Mexicana
-https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Amor y Mentiras
-https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.us@LATAM",Pluto TV Anime
-https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAventura.us@SD",Pluto TV Aventura
-https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineAccion.us@US",Pluto TV Cine Acción
-https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineClasico.us@US",Pluto TV Cine Clásico
-https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@Spain",Pluto TV Cine Comedia
-https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Cine Crimen
-https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@US",Pluto TV Cine Drama
-https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Cine Estelar
-https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@Brazil",Pluto TV Cine Familia
-https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Cine Inspirador
-https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@Brazil",Pluto TV Cine Romance
-https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineSuspenso.us@SD",Pluto TV Cine Suspenso
-https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Cine Terror
-https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCompetencias.us@SD",Pluto TV Competencias
-https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
-#EXTINF:-1 tvg-id="PlutoTVDeportes.us@SD",Pluto TV Deportes
-https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
-#EXTINF:-1 tvg-id="PlutoTVDocumentales.us@Spain",Pluto TV Documentales
-https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Dramas Coreanos
-https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Dramas Coreanos Teen
-https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV E-Sports
-https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
-#EXTINF:-1 tvg-id="PlutoTVEstilodeVida.us@Brazil",Pluto TV Estilo de Vida
-https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Fútbol
-https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistoria.us@SD",Pluto TV Historia
-https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHumor.us@SD",Pluto TV Humor
-https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
-#EXTINF:-1 tvg-id="Investiga.us@SD",Pluto TV Investiga
-https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Junior
-https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Kids
-https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
-#EXTINF:-1 tvg-id="Miobsesionfavorita.us@SD",Pluto TV Mi Obsesión Favorita
-https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMisterios.us@Brazil",Pluto TV Misterios
-https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us@SD",Pluto TV Naturaleza
-https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNovelas.us@SD",Pluto TV Novelas
-https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Novelas de México
-https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Novelas de Otros Continentes
-https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Novelas de Venezuela
-https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Nuestro Cine
-https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPeleas.us@SD",Pluto TV Peleas
-https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
-#EXTINF:-1 tvg-id="PlutoTVReality.us@US",Pluto TV Reality
-https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@US",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeries.us@UK",Pluto TV Series
-https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Series de Acción
-https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Series de Comedia
-https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Series de Crimen
-https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Series de Drama
-https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Series de Otros Continentes
-https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Series de Sci-Fi
-https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesLatinas.us@SD",Pluto TV Series Latinas
-https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesRetro.us@SD",Pluto TV Series Retro
-https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
-#EXTINF:-1 tvg-id="StarTrek.us@SD",Pluto TV Star Trek
-https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
-#EXTINF:-1 tvg-id="PlutoTVVelocidad.us@SD",Pluto TV Velocidad
-https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVVidaReal.us@Brazil",Pluto TV Vida Real
-https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPokemon.us@US",Pokémon
-https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
-#EXTINF:-1 tvg-id="",Popeye
-https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
-#EXTINF:-1 tvg-id="RCNMas.co@SD",RCN Más (720p)
-https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
-#EXTINF:-1 tvg-id="NoticiasRCN.co@SD",RCN Noticias (720p)
-https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at@ES",Red Bull TV ES (720p)
-https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
-#EXTINF:-1 tvg-id="",Relic Hunter
-https://jmp2.uk/plu-67e5941f0812459cb682d9c6.m3u8
-#EXTINF:-1 tvg-id="",Revive Gran Hermano
-https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
-#EXTINF:-1 tvg-id="",Rookie Blue: Policías Novatos
-https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
-#EXTINF:-1 tvg-id="Rugrats.us@Spain",Rugrats
-https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
-#EXTINF:-1 tvg-id="Runtime.us@SD",Runtime (720p)
-https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
-#EXTINF:-1 tvg-id="",Shockwave (720p)
-https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8
-#EXTINF:-1 tvg-id="Sintetasnohayparaiso.us@Spain",Sin Tetas No Hay Paraíso
-https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
-#EXTINF:-1 tvg-id="",Smithsonian Channel Pluto TV
-https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
-#EXTINF:-1 tvg-id="",Sony One Competencias
-https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
-#EXTINF:-1 tvg-id="",Sony One Shark Tank México (720p)
-https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
-#EXTINF:-1 tvg-id="",South Park: Colección Cartman
-https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
-#EXTINF:-1 tvg-id="",South Park: Colección Kenny
-https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
-#EXTINF:-1 tvg-id="",South Park: Colección Kyle
-https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
-#EXTINF:-1 tvg-id="",South Park: Colección Stan
-https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
-#EXTINF:-1 tvg-id="",Survivor México
-https://jmp2.uk/plu-69fca9dd14a5dfae8875a3be.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us@US",Tastemade (720p)
-https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
-#EXTINF:-1 tvg-id="",Tastemade Hogar (720p)
-https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
-#EXTINF:-1 tvg-id="",Tastemade Viajes (720p)
-https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
-#EXTINF:-1 tvg-id="TeleFormula.mx@SD",TeleFórmula
-https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.us@US",The New Detectives
-https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us@US",The Pet Collective (720p)
-https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8
-#EXTINF:-1 tvg-id="",The Walking Dead by AMC
-https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
-#EXTINF:-1 tvg-id="",TikTok Radio en Español (720p)
-https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
-#EXTINF:-1 tvg-id="Tokusato.us@Brazil",Tokusato
-https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
-#EXTINF:-1 tvg-id="TOPBarca.pl@SD",Top Barça (720p)
-https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8
-#EXTINF:-1 tvg-id="",UFC (720p)
-https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
-#EXTINF:-1 tvg-id="",Untold Stories of the ER
-https://jmp2.uk/plu-678533155e0e6a000828cd48.m3u8
-#EXTINF:-1 tvg-id="",Vive Kanal D Drama (720p)
-https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
-#EXTINF:-1 tvg-id="",Wipe Out
-https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
-#EXTINF:-1 tvg-id="YuGiOh.us@SD",Yu-Gi-Oh
-https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
-#EXTINF:-1 tvg-id="ZNation.us@SD",Z Nation
-https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
-#EXTINF:-1 tvg-id="",Zona Investigación TV (720p)
-https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="📶UNIVISION 1" tvg-logo="https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png" group-title="W3U",📶UNIVISION 1
+#EXTVLCOPT:http-referrer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="📶TUDN USA 2025" tvg-logo="https://btv.mx/posters/1724886491294.png" group-title="W3U",📶TUDN USA 2025
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN .. STREAM 11" tvg-logo="https://imgmedia.libero.pe/652x365/libero/original/2021/10/01/615790bcf257d722ff2959b2.webp" group-title="W3U",TUDN .. STREAM 11
+#EXTVLCOPT:http-referrer=https://resources.blogblog.com/blogblog/data/res/2395151956-indie_compiled.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://resources.blogblog.com/blogblog/data/res/2395151956-indie_compiled.js
+https://blogtorresmochas.blogspot.com/2020/09/univicion.html
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO USA STREAM 00" tvg-logo="https://www.telegratishd.com/imge/telemundo51.png" group-title="W3U",TELEMUNDO USA STREAM 00
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO USA" tvg-logo="https://btv.mx/posters/1720843598393.png" group-title="W3U",TELEMUNDO USA
+#EXTVLCOPT:http-referrer=https://bolaloca.my/player/lib.js?10xsx
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolaloca.my/player/lib.js?10xsx
+https://runginfect.net/embed/wemlne
+#EXTINF:-1 tvg-id="" tvg-name="📶UNIMAS M" tvg-logo="https://telelibree.com/img/unimas.png" group-title="W3U",📶UNIMAS M
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="📶GALAVISION" tvg-logo="https://ligatv.iptv-vall.com/images/galavision.png" group-title="W3U",📶GALAVISION
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="📶LAS ESTRELLAS SENIAL MEX/" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf0b09469b863ba943590967bc25b9ed.webp" group-title="W3U",📶LAS ESTRELLAS SENIAL MEX/
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+http://190.102.120.20:8000/play/a035/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="📶N+ NOTICIAS MEX" tvg-logo="https://www.nmas.com.mx/assets/Logo/logo.png" group-title="W3U",📶N+ NOTICIAS MEX
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/livetv/9Wu6os8Dmg/141?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="📶ADN 40" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/04af7c5/2147483647/strip/true/crop/588x208+0+0/resize/130x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Feb%2F02%2F27e0bb444a8faff6cf336e6f40ea%2Flogoadn40.png" group-title="W3U",📶ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="📶DISTRITO COMEDIA" tvg-logo="https://btv.mx/posters/1724209263135.png" group-title="W3U",📶DISTRITO COMEDIA
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="📶CARTOON NW" tvg-logo="https://btv.mx/posters/1720836379577.png" group-title="W3U",📶CARTOON NW
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/livetv/9Wu6os8Dmg/51?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="📶NATIONAL G. 2" tvg-logo="https://www.telegratishd.com/imge/natgeo.webp" group-title="W3U",📶NATIONAL G. 2
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+http://181.118.153.15:8000/play/tb45/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="📶DISCOVERY CH MEX" tvg-logo="https://www.telegratishd.com/imge/discoverychannel.png" group-title="W3U",📶DISCOVERY CH MEX
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+http://190.102.120.20:8000/play/a00j/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="📶HISTORY CH 1" tvg-logo="https://www.telegratishd.com/imge/history.png" group-title="W3U",📶HISTORY CH 1
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+http://181.118.150.27:8000/play/a00i/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="📶HISTORY 2" tvg-logo="https://btv.mx/posters/1724890124178.png" group-title="W3U",📶HISTORY 2
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+http://190.102.120.20:8000/play/a01i/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="📶DISCOVERY ID!" tvg-logo="https://www.telegratishd.com/imge/idinvestigation.png" group-title="W3U",📶DISCOVERY ID!
+http://190.11.225.124:5000/live/discovery_id_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="📶HGTV NEW CHANNEL" tvg-logo="" group-title="W3U",📶HGTV NEW CHANNEL
+http://181.118.153.15:8000/play/cs59/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="📶EL GOURMET" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png" group-title="W3U",📶EL GOURMET
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/livetv/9Wu6os8Dmg/115?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="📶TLC" tvg-logo="https://www.tvporinternet2.com/imge/discoverytlc.png" group-title="W3U",📶TLC
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://38.134.250.110:8000/play/a00n/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DE CAMPEONES DEPORTE1" tvg-logo="https://www.telegratishd.com/imge/daznlaliga1.webp" group-title="W3U",LIGA DE CAMPEONES DEPORTE1
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+https://frontillano.blogspot.com/2026/05/dazn-liga.html
+#EXTINF:-1 tvg-id="" tvg-name="ESPN MX LAT" tvg-logo="https://btv.mx/posters/1724883256326.png" group-title="W3U",ESPN MX LAT
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+https://frontillano.blogspot.com/2026/05/espn.html
+#EXTINF:-1 tvg-id="" tvg-name="SPACE PELICULAS ECU" tvg-logo="https://www.telegratishd.com/imge/space.webp" group-title="W3U",SPACE PELICULAS ECU
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+http://38.134.250.110:8000/play/a007/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://btv.mx/posters/1724852501490.png" group-title="W3U",HBO 2
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILIA" tvg-logo="https://btv.mx/posters/1750389849338.png" group-title="W3U",HBO FAMILIA
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="https://btv.mx/posters/1741915016570.png" group-title="W3U",GOLDEN EDGE
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY BLACK LIST MOVIES" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/59-s.webp" group-title="W3U",SONY BLACK LIST MOVIES
+#EXTVLCOPT:http-referrer=https://frontillano.blogspot.com/2026/05/mpd-xtrm-movies.html
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://frontillano.blogspot.com/2026/05/mpd-xtrm-movies.html
+https://cdn.stmify.com/embed-free/jw/player.php?id=SONY_ONE_THE_BLACKLIST&country=es
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="W3U",CINE PREMIUM
+http://201.77.60.62:8002/play/a0nk/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME COL" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png/v1/fill/w_1192,h_670,q_70,strp/hbo_xtreme_logo_by_doublekids07_ddpgt7p-pre.jpg" group-title="W3U",HBO EXTREME COL
+http://201.174.175.3:8000/play/a0y4/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="PANICO CANAL TERROR 2" tvg-logo="https://cdn.vaughnsoft.net/profile/1759256157/terror_mania.jpg" group-title="W3U",PANICO CANAL TERROR 2
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F140.0.0.0+Safari%2F537.36
+https://stream-cdn-iad3.vaughnsoft.net/play/live_terror_mania.flv
+#EXTINF:-1 tvg-id="" tvg-name="PELICULA MANIA" tvg-logo="https://cdn.vaughnsoft.net/profile/1776861247/peliculas_mania.jpg" group-title="W3U",PELICULA MANIA
+#EXTVLCOPT:http-user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F140.0.0.0+Safari%2F537.36
+https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_mania.flv
+#EXTINF:-1 tvg-id="" tvg-name="Depelicula" tvg-logo="https://www.tvporinternet2.com/imge/dpeliculaplus.png" group-title="W3U",Depelicula
+http://181.118.150.27:8000/play/a00e/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT MX" tvg-logo="https://www.telegratishd.com/imge/telehit.png" group-title="W3U",TELEHIT MX
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://190.102.120.20:8000/play/a03d/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Music Videos" tvg-logo="https://www.festiva2go.com/channels/logo/festiva-azteca-music-video.jpg" group-title="W3U",Azteca Music Videos
+http://k4.usastreams.com:80/festivatelevision/AztecaMusicVideo/chunklist_w2010012192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANDA MAX SDMX" tvg-logo="https://btv.mx/posters/1724880919544.png" group-title="W3U",BANDA MAX SDMX
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+http://181.118.153.15:8000/play/ui91/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH discovery" tvg-logo="https://www.telegratishd.com/imge/discoverychannel.png" group-title="W3U",ENGLISH discovery
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://btv.mx/posters/1724891395400.png" group-title="W3U",DISCOVERY ID
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/livetv/9Wu6os8Dmg/92?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV TVTAPP1" tvg-logo="https://image.roku.com/developer_channels/prod/d1f44f101b8d9a2d953e951a2160836a4189c21cb9e83084fd04dd7e090e29b7.png" group-title="W3U",TRU TV TVTAPP1
+#EXTVLCOPT:http-referrer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX ENGLISH 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-us.png" group-title="W3U",CINEMAX ENGLISH 1
+#EXTVLCOPT:http-referrer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO ENGLISH" tvg-logo="https://btv.mx/posters/1724852501490.png" group-title="W3U",HBO ENGLISH
+#EXTVLCOPT:http-referrer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="W3U",FXX
+#EXTVLCOPT:http-referrer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TIME MOVIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="W3U",SHOW TIME MOVIES
+#EXTVLCOPT:http-referrer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="W3U",HBO FAMILY
+#EXTVLCOPT:http-referrer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://thetvapp.to/player/v/8.36.4/jwplayer.js
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://s.yimg.com/fz/api/res/1.2/GVa_UvxFeNcsqID6q0UrTA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MzE2/https://s.yimg.com/zb/imgv1/64227f71-a4d2-3b01-86cb-a05020de00e7/t_500x300" group-title="W3U",BOOMERANG
+#EXTVLCOPT:http-user-agent=https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-XD.png" group-title="W3U",DISNEY XD
+#EXTVLCOPT:http-user-agent=https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COW BOYS USA" tvg-logo="https://btv.mx/posters/1721524358307.png" group-title="W3U",COW BOYS USA
+#EXTVLCOPT:http-user-agent=https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="8NTV.mx@SD",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-id="15TV.mx@SD",15TV (720p) [Not 24/7]
@@ -677,6 +435,9 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.mx@SD",Canal 26 Aguascalientes (1080p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal28.mx@SD",Canal 28 (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_bf24d4208d8611eeb116dbe87aa63be0
+https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="Canal30Cintalapa.mx@SD",Canal 30 Cintalapa (720p) [Not 24/7]
 https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal33Tijuana.mx@SD",Canal 33 Tijuana (720p)
@@ -709,6 +470,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpresaTV.mx@SD",Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GikTVMX.mx@SD",GikTVMX (720p)
+#EXTVLCOPT:http-referrer=https://giktv.com
+https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IcrtvColima.mx@SD",ICRTV Colima (1080p)
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IERTBCSCanal82.mx@SD",IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]
@@ -793,6 +557,9 @@ https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
 https://servilive.com:3879/live/telesaltillolive.m3u8
 #EXTINF:-1 tvg-id="TeleUV.mx@SD",Tele UV [Not 24/7]
 https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleYucatan.mx@SD",Tele Yucatan (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.teleyucatan.gob.mx/
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx@SD",TeleFórmula (720p)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx@SD",Telehit Musica
@@ -814,7 +581,7 @@ https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRCTV.mx@SD",TRC Televisión (720p)
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (1080p)
-https://streaming.alwaysdata.net/tudn.php?output=ts
+https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 tvg-id="TuristikTV.mx@SD",Turistik TV (720p)
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBUAP.mx@SD",TV BUAP (1080p)
@@ -875,3 +642,79 @@ https://5ca3e84a76d30.streamlock.net/tv4gto/tv4gto.smil/.m3u8
 https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
 #EXTINF:-1 tvg-id="TVCuatro44.mx@SD",TV Cuatro 4.4 (1080p)
 https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="📶TELEMUNDO xxx" tvg-logo="" group-title="W3U",📶TELEMUNDO xxx
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+https://live.saohgdasregions.fun/stream.php?canal=telemundo51&target=2
+#EXTINF:-1 tvg-id="" tvg-name="hd 1000" tvg-logo="" group-title="W3U",hd 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36sec-ch-ua: Chromium;v=86, Not/A;Brand;v=99, Google Chrome;v=86sec-ch-ua-mobile: ?0
+https://frontillano.blogspot.com/2026/02/telce.html
+#EXTINF:-1 tvg-id="" tvg-name="📶TUDN CALIDAD HD" tvg-logo="https://deporte-libre.top/img/tudn.png" group-title="W3U",📶TUDN CALIDAD HD
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+https://www.futbollibre2.com/envivo4/tudn.php
+#EXTINF:-1 tvg-id="" tvg-name="📶PRUB 1 M3U8" tvg-logo="https://deporte-libre.top/img/tudn.png" group-title="W3U",📶PRUB 1 M3U8
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="📶nba CAPOPLAY GITHUB" tvg-logo="" group-title="W3U",📶nba CAPOPLAY GITHUB
+#EXTVLCOPT:http-user-agent=https://waust.at/c.js
+https://frontillano.blogspot.com/2026/02/embed-daddy.html
+#EXTINF:-1 tvg-id="" tvg-name="📶usa tv vip..." tvg-logo="https://deporte-libre.top/img/tudn.png" group-title="W3U",📶usa tv vip...
+https://frontillano.blogspot.com/2026/05/mpd-xtrm-movies.html
+#EXTINF:-1 tvg-id="" tvg-name="asteca de" tvg-logo="" group-title="W3U",asteca de
+#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+https://embed.ksdjugfsddeports.com/embed2/aztecadeportes.html
+#EXTINF:-1 tvg-id="" tvg-name="BOLA LOCA" tvg-logo="" group-title="W3U",BOLA LOCA
+#EXTVLCOPT:http-referrer=https://bolaloca.my/player/lib.js?10xsx
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolaloca.my/player/lib.js?10xsx
+https://runginfect.net/embed/wemlne
+#EXTINF:-1 tvg-id="" tvg-name="BOLA LOCA 33" tvg-logo="" group-title="W3U",BOLA LOCA 33
+#EXTVLCOPT:http-referrer=https://bolaloca.my/player/lib.js?10xsx
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolaloca.my/player/lib.js?10xsx
+https://runginfect.net/embed/dp4tigbdvjxr4
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA111" tvg-logo="" group-title="W3U",LA LIGA111
+#EXTVLCOPT:http-referrer=https://frontillano.blogspot.com/2026/02/embed-daddy.html
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://frontillano.blogspot.com/2026/02/embed-daddy.html
+https://frontillano.blogspot.com/2026/02/embed-daddy.html
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS streaming-live" tvg-logo="http://tvpremiumhd.com/envivo/img/tv-depelicula.png" group-title="W3U",UNIMAS streaming-live
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVICION streaming-live" tvg-logo="https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="W3U",UNIVICION streaming-live
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="stream2wach11" tvg-logo="https://vertelevisionenvivo.com/wp-content/uploads/2021/06/image.png" group-title="W3U",stream2wach11
+#EXTVLCOPT:http-referrer=https://de.tynt.com/deb/v2?id=wu!&dn=AFWU&cc=9&chp=Windows&chmob=0&chua=Not%3AA-Brand%3Bv%3D99%2C%20Google%20Chrome%3Bv%3D145%2C%20Chromium%3Bv%3D145&r=https%3A%2F%2Fdlstreams.top%2F24-7-channels.php&pu=https%3A%2F%2Fdlstreams.top%2Fwatch.php%3Fid%3D343
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://de.tynt.com/deb/v2?id=wu!&dn=AFWU&cc=9&chp=Windows&chmob=0&chua=Not%3AA-Brand%3Bv%3D99%2C%20Google%20Chrome%3Bv%3D145%2C%20Chromium%3Bv%3D145&r=https%3A%2F%2Fdlstreams.top%2F24-7-channels.php&pu=https%3A%2F%2Fdlstreams.top%2Fwatch.php%3Fid%3D343
+https://dlhd.link/stream/stream-53.php
+#EXTINF:-1 tvg-id="" tvg-name="amc 5--" tvg-logo="https://vertelevisionenvivo.com/wp-content/uploads/2021/06/image.png" group-title="W3U",amc 5--
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK ENGLISH111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="W3U",USA NETWORK ENGLISH111
+#EXTVLCOPT:http-referrer=https://playlist.cfbu247.sbs/?url=
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://playlist.cfbu247.sbs/?url=
+https://tv247us.vip/embed/usa-network/
+#EXTINF:-1 tvg-id="" tvg-name="BOLA LOCA 33" tvg-logo="" group-title="W3U",BOLA LOCA 33
+#EXTVLCOPT:http-referrer=https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+https://doubttooth.net/embed/ysagetp2j4x
+#EXTINF:-1 tvg-id="" tvg-name="bola loca canal 5...." tvg-logo="" group-title="W3U",bola loca canal 5....
+#EXTVLCOPT:http-referrer=https://bolaloca.my/player/lib.js?25x
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolaloca.my/player/lib.js?25x
+https://dawngloom.live/embed/oga0ahtwrbbgpd
+#EXTINF:-1 tvg-id="" tvg-name="philadelphia sport bola loca" tvg-logo="" group-title="W3U",philadelphia sport bola loca
+#EXTVLCOPT:http-referrer=https://bolaloca.my/player/lib.js?25x
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolaloca.my/player/lib.js?25x
+https://articulatebreak.net/embed/o6ar0m4xg
+#EXTINF:-1 tvg-id="" tvg-name="amc 5000" tvg-logo="" group-title="W3U",amc 5000
+#EXTVLCOPT:http-referrer=https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="fx 5000" tvg-logo="" group-title="W3U",fx 5000
+#EXTVLCOPT:http-referrer=https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN ua bola loca" tvg-logo="" group-title="W3U",BEIN ua bola loca
+#EXTVLCOPT:http-referrer=https://bolaloca.my/player/lib.js?25x
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://bolaloca.my/player/lib.js?25x
+https://fibretower.net/embed/oga0ahtwrbbgpd
+#EXTINF:-1 tvg-id="" tvg-name="500 asteca 7" tvg-logo="" group-title="W3U",500 asteca 7
+http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="500 asteca 7" tvg-logo="" group-title="W3U",500 asteca 7
+http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
