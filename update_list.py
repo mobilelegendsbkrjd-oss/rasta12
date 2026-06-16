@@ -6,7 +6,7 @@ import sys
 # --- CONFIGURACIÓN ---
 LOCAL_FILE = 'prr.txt'
 URLS_REMOTAS = [
-    'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_pluto.m3u',
+    'https://raw.githubusercontent.com/678190/mysky.w3u/3b4b7637ad3c82016d78c8f6720366c8d7ce8a2f/senial1.w3u,
     'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx.m3u',
     
 ]
