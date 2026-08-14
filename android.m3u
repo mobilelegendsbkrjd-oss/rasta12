@@ -708,15 +708,13 @@ https://live.saohgdasregions.fun/stream.php?canal=telemundo51&target=2
 #EXTINF:-1 tvg-id="" tvg-name="hd 1000" tvg-logo="" group-title="W3U",hd 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36sec-ch-ua: Chromium;v=86, Not/A;Brand;v=99, Google Chrome;v=86sec-ch-ua-mobile: ?0
 https://frontillano.blogspot.com/2026/02/telce.html
-#EXTINF:-1 tvg-id="" tvg-name="📶TUDN CALIDAD HD" tvg-logo="https://deporte-libre.top/img/tudn.png" group-title="W3U",📶TUDN CALIDAD HD
-#EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
-https://www.futbollibre2.com/envivo4/tudn.php
+#EXTINF:-1 tvg-id="" tvg-name="📶sacado de daddy000" tvg-logo="https://deporte-libre.top/img/tudn.png" group-title="W3U",📶sacado de daddy000
+http://23.239.31.26:8989/accuweather/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="📶PRUB 1 M3U8" tvg-logo="https://deporte-libre.top/img/tudn.png" group-title="W3U",📶PRUB 1 M3U8
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="📶nba CAPOPLAY GITHUB" tvg-logo="" group-title="W3U",📶nba CAPOPLAY GITHUB
 #EXTVLCOPT:http-user-agent=https://waust.at/c.js
-https://frontillano.blogspot.com/2026/02/embed-daddy.html
+http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="📶usa tv vip..." tvg-logo="https://deporte-libre.top/img/tudn.png" group-title="W3U",📶usa tv vip...
 https://frontillano.blogspot.com/2026/05/mpd-xtrm-movies.html
 #EXTINF:-1 tvg-id="" tvg-name="asteca de" tvg-logo="" group-title="W3U",asteca de
