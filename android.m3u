@@ -817,6 +817,8 @@ http://45.228.234.9:8000/play/a06b/index.m3u8
 http://45.228.234.9:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America
 https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleHit.mx@SD",TeleHit (1080p)
+http://186.148.196.100:8000/play/a01s
 #EXTINF:-1 tvg-id="" tvg-name="📶TELEMUNDO xxx" tvg-logo="" group-title="W3U",📶TELEMUNDO xxx
 #EXTVLCOPT:http-referrer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
